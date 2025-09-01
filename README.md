@@ -49,5 +49,3 @@ Evaluates with R² score and RMSE
 🚀 Future Improvements
 
 Repo link : https://github.com/Manojk246/Charges_prediction.git
-
-Streamlit link : https://chargesprediction-djdfqpmi8tjnyuyjisgnak.streamlit.app/
