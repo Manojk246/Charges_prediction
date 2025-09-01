@@ -1,3 +1,6 @@
+
+
+
 💰 Medical Insurance Charges Predictor
 
 This project predicts medical insurance charges based on demographic and lifestyle factors such as age, sex, BMI, children, smoking status, and region.
