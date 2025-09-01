@@ -48,6 +48,8 @@ Evaluates with R² score and RMSE
 
 🚀 Future Improvements
 
+Repo link : https://github.com/Manojk246/Charges_prediction.git
+
 Add model selection dropdown in Streamlit (choose between Linear Regression, Random Forest, Gradient Boosting).
 
 Add hyperparameter tuning (GridSearchCV).
